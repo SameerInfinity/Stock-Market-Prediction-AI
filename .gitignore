@@ -1,0 +1,18 @@
+# Environments & Secrets
+.env
+.env.*
+venv/
+env/
+ENV/
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS generated files
+.DS_Store
